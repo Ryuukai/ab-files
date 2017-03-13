@@ -1,0 +1,6 @@
+
+
+[2017-02-12 12:06:24] Loaded 0 apps from install folder "E:\SteamLibrary\steamapps\common\ArcheBlade\Binaries\Win32\steamapps\appmanifest_*.acf".
+
+
+[2017-03-03 11:33:13] Loaded 0 apps from install folder "E:\SteamLibrary\steamapps\common\ArcheBlade\Binaries\Win32\steamapps\appmanifest_*.acf".

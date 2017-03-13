@@ -1,0 +1,56 @@
+< How to setup an Archeblade server >
+-------------------------------------
+
+Go to the steam installation folder. 
+
+The folder is generally at C:\Program Files (x86)\Steam\steamapps\common\ArcheBlade\Binaries\Win32
+(or your Steam installation folder)
+
+Execute "serverlauncher.exe" in the folder.
+
+
+< CONFIGURATION >
+
+ServerName: Name of your server
+
+Max Player: Set up a maximum number of players in a map (2~14)
+(each map has different capacity)
+
+Map: Choose a map you want to play 
+
+TheBridge - 5 vs 5 Capture and Hold
+NagasPit - 8 Players Free-for-all Death Match
+SteamCanal - 4 vs 4 Round Match
+
+NetherDale - 7 vs 7 Capture and Hold
+AltarOfWar - 2 vs 2 Round Match
+SummerIsland - 5 Players Free-for-all Death Match
+UnderSiege - 3 vs 3 Team Death Match
+
+
+Local: Display where your server is located 
+
+- Global 
+- US-East 
+- US-West
+- South America 
+- Europe 
+- Asia
+- Oceania
+- Middle East 
+- Africa
+
+Tag: 
+
+UnBalance - auto-balance disabled
+NoDupChamp - prohibit to choose dupicate characters 
+ChangeChamp - can change a character during the game
+
+
+
+password: Set a password for a private server
+
+Lan Game?: Check a checkbox for lan game mode, uncheck for internet game.
+
+Click "Create" button to create a server
+Click "Terminate" button to terminate a server
